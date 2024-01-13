@@ -1,5 +1,4 @@
-
-
+# Bienvenue !
 <!--
 **tinalalaina/tinalalaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](logo1_13_54241.png)
-#Bienvenue sur mon profil !
-🌟 En quête constante de défis technologiques, je partage ici mon parcours dans le monde du développement. Let's code together! 💻✨
+
+<div align="center">
+    <img src="logo1_13_54241.png" alt="Description de votre logo">
+</div>
+
+## 🌟 En quête constante de défis technologiques, je partage ici mon parcours dans le monde du développement. Let's code together! 💻✨
