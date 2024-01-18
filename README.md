@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="logo1_13_54241.png" alt="Description de votre logo">
+    <img src="logo1_13_54241.png" widh='' height='100'alt="Description de votre logo">
 </div>
 
 ## 🌟 En quête constante de défis technologiques, je partage ici mon parcours dans le monde du développement. Let's code together! 💻✨
