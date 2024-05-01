@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="logo512.png" widh='' height='auto'alt="Description de votre logo">
+    <img src="logo512.png" width='auto' height='auto'alt="Description de votre logo">
 </div>
 
 ## 🌟 En quête constante de défis technologiques, je partage ici mon parcours dans le monde du développement. Let's code together! 💻✨
